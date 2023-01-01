@@ -1,0 +1,6 @@
+[book]
+authors = ["Davis Schenkenberger"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Database Systems"
